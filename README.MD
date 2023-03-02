@@ -1,7 +1,7 @@
 Credit to original owner: https://github.com/ekknod/apex_linux
 
 # apex_linux  
-git clone https://github.com/luizpalazzo/apex_linux --recursive  
+git clone https://github.com/boknoy24/Apek_Lunix.git --recursive  
 cd apex_linux  
 ./run  
 
